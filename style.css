@@ -1,0 +1,138 @@
+/*-index.php-*/
+
+/* 
+img{
+    max-width: 300px;
+    max-height: 200px;
+ } */
+
+.title{
+    background-image: url(http://data.classy-online.jp/wp-content/uploads/2018/06/22191558/DMA-_DSF3016.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 50px;
+    font-family: serif;
+    padding-top: 60px;
+    color: ivory;
+}
+
+
+.img_1{
+    background-color: #fafafa;
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+
+.navbar-header{
+    
+    background-color: #fafafa;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+
+}
+
+.jumbotron{
+    background-color: #fafafa;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+
+}
+
+.slider img{
+    width: 100%;
+}
+
+button.slick-prev.slick-arrow {
+    display: none !important;
+}
+button.slick-next.slick-arrow {
+    display: none !important;
+}
+
+
+.main .slider{
+    width: 950px !important;
+    margin: 0 auto;
+}
+
+.slick-slide{
+    padding: 0 5px !important;
+}
+
+
+/*-select.php-*/
+
+.p_{
+    text-align: center;
+    margin: auto;
+
+
+
+}
+
+
+.multi{
+text-align: center;
+width: auto;
+border: solid gray;
+border-style: dotted;
+}
+
+
+.p1{
+    background-color: #fafafa;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+
+}
+
+.p2{
+   background-color: #fafafa;
+    text-align: center;
+   width: 400px;    
+   margin: auto;
+
+}
+
+
+.p3{
+    background-color: #fafafa;
+     text-align: center;
+    width: 400px;    
+    margin: auto;
+ 
+ }
+
+
+ .p4{
+    background-color: #fafafa;
+     text-align: center;
+    width: 400px;    
+    margin: auto;
+
+ }
+
+.result{
+
+   
+    margin: auto;
+}
+
+.result img{
+width: 100%;
+
+}
+
+
