@@ -48,9 +48,6 @@
 </div>
 </div>
 
-<div  id = "ikuru">
-<p>My Closet</h1>
-</div>
 
 </header>
 <!-- Head[End] -->

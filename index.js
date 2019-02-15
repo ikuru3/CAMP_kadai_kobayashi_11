@@ -3,8 +3,6 @@
 // var  name ="小林郁瑠";
 // console.log(name);
 
-$("#ikuru").css("border", "1px solid red");
-
 $(document).ready(function(){
 
 
