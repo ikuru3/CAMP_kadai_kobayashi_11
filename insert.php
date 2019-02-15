@@ -3,6 +3,8 @@
 
 //まず前のphpからデーターを受け取る（この受け取ったデータをもとにbindValueと結びつけるため）
 
+
+
 $name = $_POST["name"];
 $brand = $_POST["brand"];
 $price = $_POST["price"];

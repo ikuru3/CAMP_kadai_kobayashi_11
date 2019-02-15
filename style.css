@@ -50,7 +50,8 @@ img{
 }
 
 .slider img{
-    width: 100%;
+    width: 200px;
+
 }
 
 button.slick-prev.slick-arrow {

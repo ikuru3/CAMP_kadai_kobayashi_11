@@ -17,8 +17,6 @@
   
   <h1 class = "title">My Closet</h1>
 
-
-
 <div id ="main">
 <div class="slider">
   <p>
@@ -33,8 +31,25 @@
   <p>
   <img src="https://cdn.fashionsnap.com/collection/assets_c/2017/08/kanata-1011AW_21-thumb-467x700-729216.jpg?1550146392393" alt="">
   </p>
-  
+  <p>
+  <img src="https://cdn.fashionsnap.com/collection/assets_c/2017/08/kanata-1011AW_16-thumb-467x700-729211.jpg?1550156333810" alt="">
+  </p>
+  <p>
+  <img src="https://cdn.fashionsnap.com/collection/assets_c/2017/08/kanata-1011AW_14-thumb-467x700-729209.jpg?1550156356767" alt="">
+  </p>
+  <p>
+  <img src="https://cdn.fashionsnap.com/collection/assets_c/2017/08/kanata-1011AW_12-thumb-467x700-729207.jpg" alt="">
+  </p>
+  <p>
+  <img src="https://cdn.fashionsnap.com/collection/assets_c/2017/08/kanata-1011AW_11-thumb-467x700-729206.jpg" alt="">
+  </p>
+
+
 </div>
+</div>
+
+<div  id = "ikuru">
+<p>My Closet</h1>
 </div>
 
 </header>

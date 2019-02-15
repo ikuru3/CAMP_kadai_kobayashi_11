@@ -1,4 +1,5 @@
 <?php
+
 //1.  DB接続します xxxにDB名を入れます
 try {
 $pdo = new PDO('mysql:dbname=c_db;charset=utf8;host=localhost','root','');
