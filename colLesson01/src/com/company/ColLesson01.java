@@ -4,8 +4,7 @@ import java.util.Scanner;
 public class ColLesson01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Word w = new Word(
-        );
+        Word w = new Word();
 
         String word[] = new String[10];
         String meaning[] = new String[10];
