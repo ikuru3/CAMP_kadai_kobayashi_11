@@ -1,33 +1,33 @@
 package com.company;
+
 import java.util.Scanner;
 
-public class ColLesson01 {
+public class ColLesson01{
+
     public static void main(String[] args) {
+
+        Word[] words = new Word[10];
         Scanner scanner = new Scanner(System.in);
-        Word w = new Word();
+        System.out.println("分からなかった単語とその意味をスペースで区切って入力して下さい。");
+        String input = scanner.nextLine();
 
-        String word[] = new String[10];
-        String meaning[] = new String[10];
+        int index = 0;
+        while(!input.equals("e")) {
+            String[] tmp = input.split(" ");
+            Word wd = new Word(tmp[0],tmp[1]);
+            words[index] = wd;
+            index++;
+            System.out.println("次の単語と意味を入力して下さい。\"e\"で終了します。");
+            input = scanner.nextLine();
 
-        int total = 0;
-        while (total < 10) {
-            if (total == 0) {
-                System.out.println("分からなかった単語とその意味をスペースで区切って入力して下さい。");
-            } else {
-                System.out.println("次の単語と意味を入力して下さい。\"e\"で終了します。");
-            }
-            word[total] = scanner.next();
-            if (word[total].equals("e")) {
-                break;
-            }
-            meaning[total] = scanner.next();
-
-            total++;
-            w.AddWord(word,meaning);
         }
-        for (int i = 0; i < total; i++) {
-            w.GetAmount();
+        for (int i = 0 ; i < index; i++) {
+            System.out.println("単語：" + words[i].word + "日本語：" + words[i].meaning);
         }
-            System.out.println(total + "件、登録しました。");
+        System.out.println(index +"件、登録しました。");
+
+
     }
+
+
 }

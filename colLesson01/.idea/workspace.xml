@@ -12,49 +12,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson01_A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson03_A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson04_A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Word_A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="195">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -62,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="32" column="67" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="67" />
+            <state relative-caret-position="60">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -71,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="51" />
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Word.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="105">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -103,14 +64,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/company/ColLesson02.java" />
         <option value="$PROJECT_DIR$/src/com/company/word2.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ColLesson04.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ColLesson03.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Word.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ColLesson01.java" />
         <option value="$PROJECT_DIR$/src/com/company/Word_A.java" />
         <option value="$PROJECT_DIR$/src/com/company/ColLesson01_A.java" />
         <option value="$PROJECT_DIR$/src/com/company/ColLesson03_A.java" />
         <option value="$PROJECT_DIR$/src/com/company/ColLesson04_A.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ColLesson03.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Word.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ColLesson01.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ColLesson04.java" />
       </list>
     </option>
   </component>
@@ -152,7 +113,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551629868685" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551961029785" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,20 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ColLesson01_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ColLesson01_A" />
-      <module name="colLesson01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ColLesson04">
     <configuration name="ColLesson03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ColLesson03" />
       <module name="colLesson01" />
@@ -195,6 +143,19 @@
     </configuration>
     <configuration name="ColLesson03_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ColLesson03_A" />
+      <module name="colLesson01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColLesson04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ColLesson04" />
       <module name="colLesson01" />
       <extension name="coverage">
         <pattern>
@@ -232,17 +193,17 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ColLesson03" />
-      <item itemvalue="Application.ColLesson01_A" />
       <item itemvalue="Application.ColLesson03_A" />
       <item itemvalue="Application.ColLesson04_A" />
+      <item itemvalue="Application.ColLesson04" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ColLesson04" />
+        <item itemvalue="Application.ColLesson03" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ColLesson04_A" />
         <item itemvalue="Application.ColLesson03_A" />
-        <item itemvalue="Application.ColLesson01_A" />
-        <item itemvalue="Application.ColLesson03" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +222,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="837" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -276,7 +236,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -327,24 +287,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson03.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson01_A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="32" column="67" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="67" />
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Word.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson03_A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="135">
+          <caret line="9" column="24" lean-forward="true" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson04.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson04_A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="51" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -353,39 +313,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Word_A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson03_A.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson04_A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson01_A.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/ColLesson01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="195">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
